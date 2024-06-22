@@ -22,9 +22,17 @@ name: Meet Patel
 located_in: Calgary, Alberta
 education:
   [
-    "Diploma In Software Development"
+    "Diploma In Software Development At SAIT"
   ]
-company: Soulber
+Projects:
+  [
+    "Healthy Eats Web App" 
+    Link : https://healthyeats.vercel.app/
+    "Tech Textile : E-Comerce For Textile Products"
+    Link : Comming Soon
+    "Tactical Tic Tac Toe Mobile App"
+    Source : https://github.com/MeetGodad/TacTical-TicTacToe/blob/main/README.md
+  ]
 
 fields_of_interests:
   [
