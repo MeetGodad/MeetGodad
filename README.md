@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/meet-patel-19860b272">
+<a href="www.linkedin.com/in/meet-patel-19860b272" target >
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
