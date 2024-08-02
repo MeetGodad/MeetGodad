@@ -29,7 +29,7 @@ Projects:
     "Healthy Eats Web App" 
     Link : https://healthyeats.vercel.app/
     "Tech Textile : E-Comerce For Textile Products"
-    Link : Comming Soon
+    Link : https://techtextile.vercel.app/
     "Tactical Tic Tac Toe Mobile App"
     Source : https://github.com/MeetGodad/TacTical-TicTacToe/blob/main/README.md
   ]
