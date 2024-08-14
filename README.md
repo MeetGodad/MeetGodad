@@ -12,13 +12,14 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center" style="font-size: 2.5rem; color: #007acc; margin-bottom: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 </h2>
 
-<div style="background: linear-gradient(135deg, #e0f7fa, #ffffff); border-radius: 15px; padding: 25px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); max-width: 700px; margin: 0 auto; transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #e0f7fa, #ffffff); border-radius: 15px; padding: 25px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); max-width: 700px; margin: 0 auto;">
+
   <p style="font-size: 1.3rem; color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <strong>Name:</strong> Meet Patel<br>
     <strong>Location:</strong> Calgary, Alberta<br>
@@ -28,19 +29,28 @@
   <p style="font-size: 1.3rem; color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <strong>Projects:</strong>
     <ul style="list-style-type: none; padding: 0; font-size: 1.2rem;">
-         <li style="margin-bottom: 10px;">
-        <a href="https://github.com/MeetGodad/techtextile" style="text-decoration: none; color: #007acc; font-weight: bold; transition: color 0.3s ease, transform 0.3s ease;" onmouseover="this.style.color='#e91e63'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#007acc'; this.style.transform='scale(1)';">
+       <li style="margin-bottom: 10px;">
+        <a href="https://github.com/MeetGodad/techtextile" style="text-decoration: none; color: #007acc; font-weight: bold;">
           Tech Textile: E-Commerce For Textile Products
         </a>
       </li>
+       <li style="margin-bottom: 10px;">
+        <a href="https://github.com/MeetGodad/Meet_Final_Of_MAUIApp" style="text-decoration: none; color: #007acc; font-weight: bold;">
+          .NET Blazor MAUI Applicarion
+        </a>
       <li style="margin-bottom: 10px;">
-        <a href="https://github.com/MeetGodad/healthyeats" style="text-decoration: none; color: #007acc; font-weight: bold; transition: color 0.3s ease, transform 0.3s ease;" onmouseover="this.style.color='#e91e63'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#007acc'; this.style.transform='scale(1)';">
+        <a href="https://github.com/MeetGodad/healthyeats" style="text-decoration: none; color: #007acc; font-weight: bold;">
           Healthy Eats Web App
         </a>
       </li>
       <li>
-        <a href="https://github.com/MeetGodad/TacTical-TicTacToe" style="text-decoration: none; color: #007acc; font-weight: bold; transition: color 0.3s ease, transform 0.3s ease;" onmouseover="this.style.color='#e91e63'; this.style.transform='scale(1.1)';" onmouseout="this.style.color='#007acc'; this.style.transform='scale(1)';">
+        <a href="https://github.com/MeetGodad/TacTical-TicTacToe" style="text-decoration: none; color: #007acc; font-weight: bold;">
           Tactical Tic Tac Toe Mobile App
+        </a>
+      </li>
+       <li>
+        <a href="https://github.com/MeetGodad/rbc-chatbot" style="text-decoration: none; color: #007acc; font-weight: bold;">
+         RBC AI Assistant 
         </a>
       </li>
     </ul>
@@ -58,17 +68,6 @@
     </ul>
   </p>
 </div>
-
-<script>
-  // Add a subtle hover effect to the main container
-  const container = document.querySelector('div');
-  container.onmouseover = function() {
-    this.style.transform = 'scale(1.03)';
-  };
-  container.onmouseout = function() {
-    this.style.transform = 'scale(1)';
-  };
-</script>
 
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
